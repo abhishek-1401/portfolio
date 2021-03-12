@@ -137,10 +137,3 @@ body {
   font-size: 0.75em;
   padding: 20px 0;
 }
-
-@font-face {
-  font-family: Sacramento;
-  src: url("../portfolio/Sacramento.ttf") format('truetype');
-  font-weight: bold;
-  font-style: normal;
-}
